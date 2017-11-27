@@ -1,0 +1,21 @@
+---
+name: create
+world: spawn
+shops:
+- 274:59:257
+- 238:59:257
+positions:
+- 250:62:255
+- 262:62:255
+border:
+- 256:48:272
+- 256:77:243
+blocks:
+- "159:5"
+- "47:0"
+lobby: 284:4:279
+maxheight: 76
+minheight: 45
+lobbynpc: 192:76:261
+waitpos: 190:77:259
+...

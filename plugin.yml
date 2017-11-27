@@ -1,0 +1,7 @@
+name: MineWar
+api: 3.0.0
+main: minewar\Loader
+version: 1
+author: BEcraft Gameplay
+website: github.com/BEcraft
+description: PocketMine Server Minigame
