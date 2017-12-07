@@ -8,3 +8,5 @@
 
 
 • YouTube: BEcraft Gameplay
+
+- MCPE Version: 1.1.0.52
